@@ -1,0 +1,65 @@
+.navbar-brand{font-size: 35px;}
+a.nav-link{color: black;
+font-size: 25px;}
+.nav-link:focus, .nav-link:hover {
+ color: yellow;
+background-color: purple;}
+ .nav-item{margin: auto;
+    font-variant: small-caps;}
+ .nav-link:link,.nav-link:visited{display: block;}
+ .nav-link:hover,.nav-link:active{background-color: #101820FF;}
+.page-header{text-align: center;
+margin-top: 20px;}
+h1::first-letter{color: red;
+font-size: 50px;
+font-style: italic;}
+
+/*Chicken*/
+
+h3{text-align: center;
+margin-top: 40px;
+color: #FFD700;
+background-color: darkgray;}
+#p1{background-color: darkgray;
+margin-top: -12px;
+padding: 25px;}
+
+#p1::first-letter{color: #ADFF2F;
+font-size: 35px;
+font-weight:small-caps ;}
+
+/*beef*/
+
+.h2{text-align: center;
+margin-top: 40px;
+color: maroon;
+background-color: darkgray;}
+#p2{background-color: darkgray;
+margin-top: -12px;
+padding: 25px;}
+
+#p2::first-letter{color: #4B0082;
+font-size: 35px;
+font-weight:small-caps ;}
+
+/*Sushi*/
+
+h4{text-align: center;
+margin-top: 40px;
+color: orangered;
+background-color: darkgray;
+font-size: 35px;}
+#p3{background-color: darkgray;
+margin-top: -12px;
+padding: 25px;}
+
+#p3::first-letter{color: yellow;
+font-size: 35px;
+font-weight:small-caps ;}
+
+
+
+
+
+
+
